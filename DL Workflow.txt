@@ -1,0 +1,9 @@
+Formulate/ Outline the problem
+Identify inputs and outputs
+Prepare data
+Choose a loss function and optimizer
+Train the model
+Perform a Prediction/Classification
+Measure Performance
+Tune Hyperparameters
+Share/Deploy Model

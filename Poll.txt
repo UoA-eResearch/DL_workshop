@@ -1,0 +1,7 @@
+Would you apply Deep Learning to the following (yes/no)?
+
+1. Recognising whether or not a picture contains a bird, given enough training data.
+2. Calculating the median and interquartile range of a dataset.
+3. Identifying MRI images of a rare disease when only one or two example images available for training.
+4. Identifying people in pictures after being trained only on cats and dogs.
+5. Translating English into French.
